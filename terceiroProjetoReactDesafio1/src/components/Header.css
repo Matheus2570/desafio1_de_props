@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    align-items: center;
+    gap: 10%;
+    justify-content: center;
+    border: 2px solid #000000 ;
+    background-color: #0416515d;
+    color: #000000;
+    font-size: 1.1em;
+}
+
+.logo{
+    width: 10%;
+    transition: box-shadow 0.2s ease;
+    transition: transform 0.2s ease;
+    border-radius: 10%;
+}
+
+.logo:hover{
+    transform: scale(1.05);
+box-shadow: 2px 5px 10px #333333;
+
+}
