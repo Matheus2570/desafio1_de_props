@@ -5,7 +5,7 @@ function Header() {
   return (
     <>
  <header className="header">
-        <h1>Links Apoio React</h1>
+        <h1>Conhecendo Grupo 5</h1>
         <img src={logo} className="logo" alt="Imgem React" />
       </header>
   
