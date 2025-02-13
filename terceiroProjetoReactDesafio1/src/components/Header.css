@@ -3,11 +3,15 @@
     align-items: center;
     gap: 10%;
     justify-content: center;
+    padding: 1%;
     border: 2px solid #000000 ;
     background-color:  x#0416514f;
     color: #000000;
     font-size: 1.1em;
+    font-family: 'Times New Roman', Times, serif;
 }
+
+
 
 .logo{
     width: 10%;
@@ -19,5 +23,4 @@
 .logo:hover{
     transform: scale(1.05);
 box-shadow: 2px 5px 10px #333333;
-
 }
