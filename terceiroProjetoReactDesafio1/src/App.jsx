@@ -32,7 +32,7 @@ function App() {
           <MainProps
             img={Laura}
             alt="Laura"
-            nome="Laura Merques"
+            nome="Laura Marques"
             hobby="Esporte, Viajar, passar tempo com a família"
           />
           <MainProps
