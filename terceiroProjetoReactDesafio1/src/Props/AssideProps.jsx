@@ -1,6 +1,6 @@
-import './AsidePROPS.css'
+import './AssideProps.css'
 
-function AsidePROPS (props) {
+function AssideProps (props) {
     return  <aside className='Container'>
     <h2>{props.titulo}</h2>
     <ul>
@@ -12,4 +12,4 @@ function AsidePROPS (props) {
     
     }
 
-export default AsidePROPS
+export default AssideProps
