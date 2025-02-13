@@ -1,4 +1,4 @@
-# Site Desafio com Props
+# Site Desafio com Props ⚛️
 
 Este é um projeto para a escola onde criamos um site com o uso de components e props.
 
@@ -30,12 +30,16 @@ Este projeto utiliza as seguintes tecnologias:
    Se você ainda não clonou o repositório, execute o comando abaixo para fazer isso:
 
    ```bash
-   git clone https://github.com/Matheus2570/api_crud_sqlserver.git
+   git clone https://github.com/Matheus2570/desafio1_de_props.git
 
 2. **Instale as dependências:**
-O projeto utiliza algumas bibliotecas, como express, mssql e outras, para funcionar corretamente. Execute o seguinte comando para instalar as dependências:
+O projeto utiliza a biblioteca Node.js e dependências gerenciadas pelo npm. Para visualizar o projeto, execute o seguinte comando para instalar as dependências:
    ```bash
+   cd desafio1_de_props
+   cd terceiroProjetoReactDesafio1
    npm install
 
-
-   
+3. **Rodar o servidor:**
+Para rodar o servidor execute o seguinte comando:
+   ```bash
+   npm run dev
