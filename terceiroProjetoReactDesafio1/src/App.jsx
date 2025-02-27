@@ -14,7 +14,7 @@ function App() {
     <>  
 
 <BrowserRouter>
-            <Routes cclassName="nav">
+            <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/maria" element={<Maria1 />} />
               <Route path="/matheus" element={<Matheus1 />} />
@@ -23,7 +23,6 @@ function App() {
               <Route path="/valentina" element={<Valentina1 />} />
               <Route path="/vitor" element={<Vitor1 />} />
             </Routes>
-            <NavBar />
           </BrowserRouter>
 
 
