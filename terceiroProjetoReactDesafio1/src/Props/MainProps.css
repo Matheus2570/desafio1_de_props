@@ -8,12 +8,13 @@
     border: 2px solid #000000 ;
     background-color:  x#0416514f;
     color: #000000;
- width: 32vw;
+ width: 30vw;
  height: 35vw;
  text-align: center;
  padding: 1%;
  font-family: 'Times New Roman', Times, serif;
 margin-top: 5%;
+text-align: justify;
 h4{
   margin-bottom: -3%;
   align-items: start;
