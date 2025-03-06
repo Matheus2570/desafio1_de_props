@@ -9,6 +9,8 @@ import Laura from "../assets/Laura.jpg";
 import Ana from "../assets/Ana.jpg";
 import Vitor from "../assets/Vitor.jpg";
 import Valentina from "../assets/Valentina.jpg";
+import NavBar from "../components/NavBar";
+
 
 
 function App() {
@@ -17,6 +19,7 @@ function App() {
 
       <Header />
       <main className="main">
+      <NavBar className="NavBar"/>
         <div className="blocoPerfils">
           <MainProps
             img={Matheus}

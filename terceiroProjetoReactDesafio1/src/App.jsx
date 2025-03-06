@@ -1,6 +1,5 @@
 import "./App.css";
 import Home from "./pages/Home"
-import NavBar from "./components/NavBar";
 import Maria1 from "./pages/Maria";
 import Matheus1 from "./pages/Matheus";
 import Laura1 from "./pages/Laura";
