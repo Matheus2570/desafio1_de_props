@@ -1,0 +1,18 @@
+.conteiner{
+    display: flex;
+}
+
+.blocoAoLado{
+    border: 2px solid black;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    padding: 40px;
+}
+
