@@ -1,10 +1,16 @@
 .conteiner{
     display: flex;
+    margin-top: 5%;
 }
 
 .blocoAoLado{
     border: 2px solid black;
     width: 100%;
+}
+
+.blocoAoLado h1{
+    font-size: 1.7em;
+    margin-bottom: 5%;
 }
 
 h1 {
