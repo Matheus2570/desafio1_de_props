@@ -31,7 +31,7 @@ function App() {
             img={Maria}
             alt="Maria"
             nome="Maria Clara C.G.F"
-            hobby="Ler, escutar música, fazer as unhas, crochê, pintura, desenhar, cozinhar, viajar, comprar compulsivamente, cuidar do cabelo e pele, costurar, colher frutinha da minha horta, plantar, alimentar/ cuidar dos animais de rua ou silvestres, maratona de filmes e series, organizar a agenda de várias semanas seguidas, bordar. "
+            hobby="Ler, escutar música, fazer as unhas, artesanato, cozinhar, viajar, compras, autocuidado, jardinagem, cuidar de animais, maratona de filmes e series, planejamento. "
           />
           <MainProps
             img={Laura}
@@ -78,3 +78,5 @@ function App() {
 }
 
 export default App;
+
+
