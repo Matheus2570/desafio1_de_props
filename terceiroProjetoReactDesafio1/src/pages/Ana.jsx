@@ -25,7 +25,14 @@ function SobreAna() {
         Trabalha bem em equipe o que leva a ter ótimas oportunidades profissionais e sociais. 🌞🥗🌼👑🩰👰🤗💑 </p>
     </div>
         </div>
-        <FooterProps/>
+        <FooterProps
+        email="grupo5@gmail.com"
+        telefone="(19)1942-1845"
+        instagram="https://www.instagram.com"
+        facebook="https://www.facebook.com"
+        twitter="https://www.twitter.com"
+        autor="Grupo 5"
+        />
         
   </>
   )
