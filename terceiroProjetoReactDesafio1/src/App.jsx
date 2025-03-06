@@ -1,6 +1,6 @@
 import "./App.css";
 import Home from "./pages/Home"
-import Maria1 from "./pages/Maria";
+import Maria1 from "./pages/Maria"
 import Matheus1 from "./pages/Matheus";
 import Laura1 from "./pages/Laura";
 import Ana1 from "./pages/Ana";
