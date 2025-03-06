@@ -1,0 +1,17 @@
+.conteiner {
+    display: flex;
+    margin-top: 5%;
+}
+
+.blocoAoLado {
+    border: 2px solid;
+    width: 100%;
+    text-align: center; 
+    padding: 5%; 
+    font-size: 1.1em;
+}
+
+.blocoAoLado h2 {
+    margin-bottom: 5%;
+    font-size: 1.7em;
+}
