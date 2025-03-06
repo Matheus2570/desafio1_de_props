@@ -1,8 +1,7 @@
 import "../components/Header.css";
 import "./Matheus.css";
 import Logo from "../assets/Logo-grupo5.png";
-import NavBar from "../components/NavBar";
-import Foter from "../Props/FooterProps"
+import NavBar from "../components/NavBar";  
 import FooterProps from "../Props/FooterProps";
 
 function Matheus() {
