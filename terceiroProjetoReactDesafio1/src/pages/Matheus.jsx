@@ -1,17 +1,14 @@
 import "../components/Header.css";
 import "./Matheus.css";
-import Logo from "../assets/Logo-grupo5.png";
 import NavBar from "../components/NavBar";  
 import FooterProps from "../Props/FooterProps";
+import Header from "../components/Header";
 
 function Matheus() {
   return (
     <>
-      <header className="header">
-        <h1>Conhecendo Grupo 5</h1>
-        <img src={Logo} className="logo" alt="Imgem React" />
-      </header>
-
+    
+<Header/>
       <main className="blocoMaior">
         <NavBar />
         <div className="blocoAoLado">
