@@ -1,4 +1,4 @@
-import "../Vitor.css";
+import "./Vitor.css";
 import Header from "../components/Header";
 import Navbar from "../components/NavBar";
 import Footer from "../Props/FooterProps";
