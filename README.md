@@ -1,6 +1,6 @@
 # Site do Grupo
 
-Este é um projeto de site desenvolvido em **React**, onde utilizamos **componentes**, **props** e **rotas**. O objetivo é criar uma navegação entre várias páginas, incluindo uma página dedicada para cada integrante do grupo.
+Este é um projeto de site desenvolvido em **React**, onde utilizamos **componentes**, **props** e **rotas**. O objetivo é criar uma navegação entre várias páginas, cada pagina tem um pouco sobre cada integrante do grupo.
 
 ## Estrutura do Projeto
 
