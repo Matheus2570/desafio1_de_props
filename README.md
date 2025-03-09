@@ -12,7 +12,7 @@ O projeto é composto pelos seguintes arquivos principais:
 - `src/App.js` - Componente principal do site.
 - `src/index.js` - Arquivo de entrada do React.
 
-## Funcionalidades ✅
+## 📌 Funcionalidades 
 
 - **Navegação entre Páginas**: Cada integrante tem sua própria página dentro do projeto.
 - **Uso de Componentes**: O site é estruturado em componentes reutilizáveis.
