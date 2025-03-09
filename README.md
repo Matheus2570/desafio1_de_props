@@ -2,7 +2,7 @@
 
 Este é um projeto de site desenvolvido em **React**, onde utilizamos **componentes**, **props** e **rotas**. O objetivo é criar uma navegação entre várias páginas, cada pagina tem um pouco sobre cada integrante do grupo.
 
-## Estrutura do Projeto
+## 📂Estrutura do Projeto 
 
 O projeto é composto pelos seguintes arquivos principais:
 
@@ -18,7 +18,7 @@ O projeto é composto pelos seguintes arquivos principais:
 - **Uso de Componentes**: O site é estruturado em componentes reutilizáveis.
 - **Rotas Internas**: Implementamos `react-router-dom` para navegação sem recarregar a página.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - React.js
 - React Router DOM
